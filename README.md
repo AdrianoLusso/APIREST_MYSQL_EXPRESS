@@ -1,1 +1,3 @@
 # APIREST_MYSQL_EXPRESS
+
+npm run dev
