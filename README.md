@@ -1,3 +1,3 @@
 # APIREST_MYSQL_EXPRESS
 
-npm run dev
+API REST desarrollada con NODEJs, Express y MYSQL. Ofrece servicio CRUD para empleados.
